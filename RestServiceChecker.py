@@ -6,7 +6,7 @@ import urllib.parse as urlparse
 from urllib.parse import urlencode
 import json
 import sys
-import os
+
 
 def sendRequestButtonClicked():
 	url=URLTextfeild.get()
